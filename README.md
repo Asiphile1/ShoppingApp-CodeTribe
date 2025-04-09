@@ -240,6 +240,6 @@ Access the Application: Visit http://localhost:3000 in your browser to access th
 ## User Interface
 * User-friendly Design: The interface is simple and intuitive, making it easy for users to add, edit, or remove items.
 * Responsive Design: The app is fully responsive and works well across devices (desktops, tablets, and mobile phones).
-### `npm run build` fails to minify
+### `npm run build` 
 
 
